@@ -1,5 +1,12 @@
 # @backstage/plugin-splunk-on-call
 
+## 0.2.0
+
+### Minor Changes
+
+- a310f33d8: Updated splunk-on-call plugin to use the REST endpoint (incident creation-acknowledgement-resolution).
+  It implies switching from `splunkOnCall.username` configuration to `splunkOnCall.eventsRestEndpoint` configuration, this is a breaking change.
+
 ## 0.1.4
 
 ### Patch Changes

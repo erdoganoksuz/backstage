@@ -1,5 +1,17 @@
 # @backstage/plugin-techdocs-backend
 
+## 0.6.4
+
+### Patch Changes
+
+- aa095e469: OpenStack Swift publisher added for tech-docs.
+- 02d78290a: Enhanced the example documented-component to better demonstrate TechDocs features
+- a501128db: Refactor log messaging to improve clarity
+- Updated dependencies [aa095e469]
+- Updated dependencies [bc46435f5]
+- Updated dependencies [a501128db]
+  - @backstage/techdocs-common@0.4.4
+
 ## 0.6.3
 
 ### Patch Changes

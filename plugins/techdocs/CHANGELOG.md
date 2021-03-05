@@ -1,5 +1,15 @@
 # @backstage/plugin-techdocs
 
+## 0.6.1
+
+### Patch Changes
+
+- aa095e469: OpenStack Swift publisher added for tech-docs.
+- Updated dependencies [aa095e469]
+- Updated dependencies [bc46435f5]
+- Updated dependencies [a501128db]
+  - @backstage/techdocs-common@0.4.4
+
 ## 0.6.0
 
 ### Minor Changes

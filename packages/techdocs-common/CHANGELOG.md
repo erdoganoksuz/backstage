@@ -1,5 +1,14 @@
 # @backstage/techdocs-common
 
+## 0.4.4
+
+### Patch Changes
+
+- aa095e469: OpenStack Swift publisher added for tech-docs.
+- bc46435f5: - Improve deprecation warning messaging in logs.
+  - Replace temp folder path from git provider domain(`source`) to full git host name (`resource`). (See: https://github.com/IonicaBizau/git-url-parse#giturlparseurl)
+- a501128db: Refactor log messaging to improve clarity
+
 ## 0.4.3
 
 ### Patch Changes

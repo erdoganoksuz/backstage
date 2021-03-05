@@ -1,5 +1,11 @@
 # @backstage/plugin-kubernetes
 
+## 0.3.13
+
+### Patch Changes
+
+- 763926bc1: Adds a new method `getClusters` to grab cluster configuration in the frontend
+
 ## 0.3.12
 
 ### Patch Changes
